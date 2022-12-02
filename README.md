@@ -2,4 +2,4 @@
 Website for sale of the country bots. 
 Aristóteles Bots. Quality Bots? Only here!
 
-![(Capa.jpg)]
+![](Capa.jpg)
