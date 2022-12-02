@@ -1,5 +1,5 @@
 # php_aribot_only_back_end
-Website for sale of the country bots. 
-Aristóteles Bots. Quality Bots? Only here!
+Website for sale of the countryside boots. 
+Aristóteles Boots. Quality Boots? But here!
 
 ![](Capa.jpg)
